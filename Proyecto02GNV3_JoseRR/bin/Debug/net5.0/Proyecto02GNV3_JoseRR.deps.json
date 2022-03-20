@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proyecto02GNV3_JoseRR/1.0.0": {
+        "runtime": {
+          "Proyecto02GNV3_JoseRR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto02GNV3_JoseRR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
